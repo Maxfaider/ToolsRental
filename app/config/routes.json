@@ -1,0 +1,14 @@
+{
+    "path": "app/view/",
+    "error": "public/error/404.php",
+    "routes": {
+        "home": "public/index.php",
+        "contact": "public/contact.php",
+        "product": "public/product-details.php",
+        "category": "public/products-list.php",
+        "login": "public/login.php",
+        "register": "public/register.php",
+        "cpanel": "public/cpanel-client.php",
+        "admin": "private/cpanel-admin.php"
+    }
+}

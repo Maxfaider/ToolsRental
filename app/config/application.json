@@ -1,0 +1,7 @@
+{
+    "name": "ToolsRental",
+    "domain": "localhost/RentTools",
+    "protocol": "http",
+    "company": "FERRATEC S.A.S",
+    "version": "0.1"
+}
